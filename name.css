@@ -1,0 +1,11 @@
+.boxIMG{
+    float: left;
+    padding: 10px;
+}
+
+.box{
+    margin: 10px;
+    padding: 10px;
+    border: 5px solid black;
+    width: 23%;
+}
